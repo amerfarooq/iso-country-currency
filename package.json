@@ -4,7 +4,7 @@
   "description": "Get country name, currency and currency symbol via ISO2 country abbreviation",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlexDid/iso-country-currency.git"
+    "url": "https://github.com/amerfarooq/iso-country-currency"
   },
   "main": "index.js",
   "types": "index.d.ts",
